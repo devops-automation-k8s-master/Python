@@ -1,0 +1,9 @@
+Problem Statement.
+------
+This program shold continuously monitor the state of external resources (simply by pinging
+them, Memory, Disk, Port). Assume there is the possibility to monitor a custom port. All configuration data is
+stored in a separate file and represented as json. Provide output to the console, as well as to
+separate log files.
+
+- Cross-platform solution.
+- OS built-in utilities are not used,

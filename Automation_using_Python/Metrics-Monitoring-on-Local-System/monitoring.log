@@ -1,0 +1,82 @@
+2018-05-03 20:49:27,570 - root - INFO - Application Started
+2018-05-03 20:49:27,571 - root - DEBUG - Metrics Registered: dict_keys(['memUtil', 'portTest', 'diskUtil'])
+2018-05-03 20:49:27,572 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:49:27,572 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:49:29,576 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:49:29,576 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:49:31,580 - memUtil - DEBUG - 88.8% system memory utilization
+2018-05-03 20:49:31,580 - memUtil - DEBUG - 88.8% system memory utilization
+2018-05-03 20:49:33,583 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:49:33,583 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:49:35,587 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:49:35,587 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:49:37,589 - memUtil - DEBUG - 88.9% system memory utilization
+2018-05-03 20:49:37,589 - memUtil - DEBUG - 88.9% system memory utilization
+2018-05-03 20:49:39,591 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:49:39,591 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:49:41,595 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:49:41,595 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:49:43,599 - memUtil - DEBUG - 88.9% system memory utilization
+2018-05-03 20:49:43,599 - memUtil - DEBUG - 88.9% system memory utilization
+2018-05-03 20:49:45,602 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:49:45,602 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:49:47,605 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:49:47,605 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:49:49,610 - memUtil - DEBUG - 88.9% system memory utilization
+2018-05-03 20:49:49,610 - memUtil - DEBUG - 88.9% system memory utilization
+2018-05-03 20:49:51,614 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:49:51,614 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:49:53,617 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:49:53,617 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:49:55,621 - memUtil - DEBUG - 88.8% system memory utilization
+2018-05-03 20:49:55,621 - memUtil - DEBUG - 88.8% system memory utilization
+2018-05-03 20:49:57,624 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:49:57,624 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:49:59,628 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:49:59,628 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:50:01,632 - memUtil - DEBUG - 88.8% system memory utilization
+2018-05-03 20:50:01,632 - memUtil - DEBUG - 88.8% system memory utilization
+2018-05-03 20:50:03,635 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:50:03,635 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:50:05,639 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:50:05,639 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:50:07,644 - memUtil - DEBUG - 88.8% system memory utilization
+2018-05-03 20:50:07,644 - memUtil - DEBUG - 88.8% system memory utilization
+2018-05-03 20:50:09,647 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:50:09,647 - diskUtil - DEBUG - 9.0% system disk utilization
+
+2018-05-03 20:50:11,650 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:50:11,650 - portTest - DEBUG - 22 PORT IS OPEN
+
+2018-05-03 20:50:13,655 - memUtil - DEBUG - 88.8% system memory utilization
+2018-05-03 20:50:13,655 - memUtil - DEBUG - 88.8% system memory utilization

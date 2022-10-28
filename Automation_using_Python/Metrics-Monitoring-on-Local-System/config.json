@@ -1,0 +1,68 @@
+{
+    "interval": 2,
+    "logging-config": {
+        "formatters": {
+            "simple": {
+                "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+            }
+        },
+        "handlers": {
+            "console": {
+                "class": "logging.StreamHandler",
+                "formatter": "simple",
+                "level": "DEBUG",
+                "stream": "ext://sys.stdout"
+            },
+            "file_handler": {
+                "class": "logging.FileHandler",
+                "filename": "monitoring.log",
+                "formatter": "simple",
+                "level": "DEBUG"
+            },
+            "portTestHandler": {
+              "class": "logging.FileHandler",
+              "filename": "portTest.log",
+              "formatter": "simple",
+              "level": "DEBUG"
+            },
+            "diskutilHandler": {
+              "class": "logging.FileHandler",
+              "filename": "diskutil.log",
+              "formatter": "simple",
+              "level": "DEBUG"
+            },
+            "memutilHandler": {
+              "class": "logging.FileHandler",
+              "filename": "memutil.log",
+              "formatter": "simple",
+              "level": "DEBUG"
+            }
+        },
+        "loggers": {
+          "portTest" : {
+            "handlers": ["console", "file_handler", "portTestHandler"]
+          },
+          "diskUtil" : {
+            "handlers": ["console", "file_handler", "diskutilHandler"]
+          },
+          "memUtil" : {
+            "handlers": ["console", "file_handler", "memutilHandler"]
+          }
+        },
+        "root": {
+            "handlers": [
+                "console",
+                "file_handler"
+            ],
+            "level": "DEBUG"
+        },
+        "version": 1
+    },
+    "memUtil": "system",
+    "monitoring-metrics": ["diskUtil","portTest","memUtil"],
+    "diskUtil": "/",
+    "portTest": {
+        "ipaddress_url": "localhost",
+        "port": "22"
+    }
+}
